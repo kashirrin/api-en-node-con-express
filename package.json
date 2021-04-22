@@ -1,0 +1,19 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Prueba para crear una API REST en Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "Express"
+  ],
+  "author": "Armando Elias Aguirre Sosa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
