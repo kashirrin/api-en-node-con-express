@@ -6,6 +6,4 @@ function temporizador(){
         .then(contenido => console.log(contenido));
         
 }
- setInterval(temporizador, 5000);
-
- console.log("Hola");
+setInterval(temporizador, 5000);
